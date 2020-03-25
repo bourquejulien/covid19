@@ -61150,19 +61150,13 @@
     },
     {
       "date": "2020-3-20",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
-    },
-    {
-      "date": "2020-3-22",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     },
@@ -61536,7 +61530,7 @@
     },
     {
       "date": "2020-3-20",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     },
