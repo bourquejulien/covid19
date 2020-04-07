@@ -71792,19 +71792,19 @@
     },
     {
       "date": "2020-3-19",
-      "confirmed": 13677,
+      "confirmed": 13747,
       "deaths": 200,
       "recovered": 121
     },
     {
       "date": "2020-3-20",
-      "confirmed": 19100,
+      "confirmed": 19273,
       "deaths": 244,
       "recovered": 147
     },
     {
       "date": "2020-3-21",
-      "confirmed": 25489,
+      "confirmed": 25600,
       "deaths": 307,
       "recovered": 176
     },
@@ -71852,13 +71852,13 @@
     },
     {
       "date": "2020-3-29",
-      "confirmed": 140886,
+      "confirmed": 140909,
       "deaths": 2467,
       "recovered": 2665
     },
     {
       "date": "2020-3-30",
-      "confirmed": 161807,
+      "confirmed": 161837,
       "deaths": 2978,
       "recovered": 5644
     },
@@ -71876,7 +71876,7 @@
     },
     {
       "date": "2020-4-2",
-      "confirmed": 243453,
+      "confirmed": 243616,
       "deaths": 5926,
       "recovered": 9001
     },
